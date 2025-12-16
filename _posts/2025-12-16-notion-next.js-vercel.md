@@ -4,6 +4,7 @@ title: NextJS + NOTION + VERCEL
 subtitle: Each post also has a subtitle
 categories: notion
 tags: [website]
+top: 1
 ---
 
 ## 关于本篇
