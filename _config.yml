@@ -141,7 +141,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+night_mode: "on"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -207,19 +207,19 @@ excerpt:
 #    right: 100
 
 # Click to top settings
-# click_to_top:
-#   light:
-#     background_color: "white"
-#     color: "#454545"
-#   dark:
-#     background_color: "#34323d"
-#     color: "#bbb"
+click_to_top:
+  light:
+    background_color: "white"
+    color: "#454545"
+  dark:
+    background_color: "#34323d"
+    color: "#bbb"
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
-#   enable_recommendations: false
-#   enable_comments: true
+disqus:
+  shortname: "Your Disqus username"
+  enable_recommendations: false
+  enable_comments: true
 
 # Gitment comments
 # gitment:
